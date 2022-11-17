@@ -1,0 +1,24 @@
+TIRA
+Rojo va a +
+Blanco a -
+verde datos
+
+NeoPixel Leds 60 p metro 5 metros
+WS2812B
+
+Potenciómetro Lineal De Carbon
+
+Leds
+blanco = tierra
+rojo= 5v
+verde = entrada de datos
+
+-----------------
+ante error
+Pico W ENOMEM error when using PIO
+poner
+rp2.PIO(0).remove_program()
+--------------
+
+
+Comillas [ " "
